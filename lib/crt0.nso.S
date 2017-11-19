@@ -32,7 +32,15 @@ NORELOC__nro_modhdr:
 	.word NORELOC_BSS_END_ - NORELOC__nro_modhdr
 	.word 0, 0 // eh_frame_hdr start/end
 	.word 0 // runtime-generated module object offset
-
+        .quad log_buffer
+        .quad log_length
+.global canvas_display
+canvas_display:
+        .quad 0
+.global canvas_framenumbers
+canvas_framenumbers:    
+        .quad 0
+        
 .section .text, "e"
 start:
 	bl main

@@ -8,7 +8,7 @@ PYTHON2 := python2
 MEPHISTO := ctu
 RUBY := ruby
 
-libtransistor_TESTS := malloc bsd_ai_packing bsd sfdnsres nv helloworld
+libtransistor_TESTS := malloc bsd_ai_packing bsd sfdnsres nv helloworld canvas_display
 
 libtransistor_OBJECTS := build/lib/svc.o build/lib/ipc.o build/lib/tls.o build/lib/util.o build/lib/ipc/sm.o build/lib/ipc/bsd.o build/lib/ipc/nv.o
 
