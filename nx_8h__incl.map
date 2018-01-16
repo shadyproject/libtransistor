@@ -1,0 +1,31 @@
+<map id="include/libtransistor/nx.h" name="include/libtransistor/nx.h">
+<area shape="rect" id="node2" href="$types_8h.html" title="Various system types. " alt="" coords="1133,608,1268,635"/>
+<area shape="rect" id="node6" href="$context_8h.html" title="Represents resources, arguments, and values to be passed between this program and PegaSwitch or anoth..." alt="" coords="43,163,189,189"/>
+<area shape="rect" id="node7" href="$ipc_8h.html" title="Interprocess Communication data structures and functions. " alt="" coords="123,253,244,280"/>
+<area shape="rect" id="node8" href="$bsd_8h.html" title="BSD Sockets. " alt="" coords="436,253,583,280"/>
+<area shape="rect" id="node13" href="$svc_8h.html" title="Service functions. " alt="" coords="2232,80,2357,107"/>
+<area shape="rect" id="node14" href="$tls_8h.html" title="Thread Local Storage functions. " alt="" coords="2382,80,2500,107"/>
+<area shape="rect" id="node16" href="$util_8h.html" title="Various utililty functions. " alt="" coords="2525,80,2645,107"/>
+<area shape="rect" id="node19" href="$sm_8h.html" title="Service Manager. " alt="" coords="635,525,777,552"/>
+<area shape="rect" id="node20" href="$ro_8h.html" title="Loader Services. " alt="" coords="641,253,776,280"/>
+<area shape="rect" id="node21" href="$time_8h.html" title="Time Services. " alt="" coords="802,525,952,552"/>
+<area shape="rect" id="node22" href="$nifm_8h.html" title="Network Interface Manager. " alt="" coords="965,253,1115,280"/>
+<area shape="rect" id="node23" href="$ipc_2audio_8h.html" title="Audio output. " alt="" coords="370,80,525,107"/>
+<area shape="rect" id="node24" href="$audio_8h.html" title="Audio data structures. " alt="" coords="265,163,399,189"/>
+<area shape="rect" id="node25" href="$bpc_8h.html" title="Board Power Control. " alt="" coords="1020,435,1167,461"/>
+<area shape="rect" id="node26" href="$nv_8h.html" title="Nvidia Services. " alt="" coords="1079,525,1217,552"/>
+<area shape="rect" id="node27" href="$vi_8h.html" title="Visual Services. " alt="" coords="1409,80,1543,107"/>
+<area shape="rect" id="node28" href="$am_8h.html" title="AM (Applet Manager) " alt="" coords="1242,163,1384,189"/>
+<area shape="rect" id="node35" href="$gpu_8h.html" title="GPU functions. " alt="" coords="2065,525,2215,552"/>
+<area shape="rect" id="node38" href="$hid_8h.html" title="Controller input data structures and functions. " alt="" coords="2186,253,2307,280"/>
+<area shape="rect" id="node39" href="$gfx_8h.html" title="Central graphics header. Contains all of the other graphics headers. " alt="" coords="2689,80,2833,107"/>
+<area shape="rect" id="node29" href="$display_8h.html" title="Display data structures and functions. " alt="" coords="1409,155,1543,197"/>
+<area shape="rect" id="node30" href="$surface_8h.html" title="Display surface data structures and functions. " alt="" coords="1462,246,1596,287"/>
+<area shape="rect" id="node31" href="$graphic__buffer__queue_8h.html" title="Graphics buffer queues data structures and functions. " alt="" coords="1519,337,1680,378"/>
+<area shape="rect" id="node32" href="$binder_8h.html" title="Data structures and functions for interacting with the Android Binder IPC interface used in vi servic..." alt="" coords="1762,427,1896,469"/>
+<area shape="rect" id="node34" href="$graphic__buffer_8h.html" title="Graphics buffer data structures. " alt="" coords="1921,427,2055,469"/>
+<area shape="rect" id="node36" href="$fence_8h.html" title="Fence data structures. " alt="" coords="1445,427,1579,469"/>
+<area shape="rect" id="node37" href="$rect_8h.html" title="Rectangle. " alt="" coords="1603,427,1737,469"/>
+<area shape="rect" id="node33" href="$parcel_8h.html" title="Data structures and functions for packing/unpacking Android Parcels. " alt="" coords="1595,518,1729,559"/>
+<area shape="rect" id="node40" href="$blit_8h.html" title="Functions for graphics blits. " alt="" coords="2701,163,2843,189"/>
+</map>

@@ -1,0 +1,23 @@
+var searchData=
+[
+  ['raw_5fdata_5fsize',['raw_data_size',['../structipc__request__t.html#ac08ff3e4616757dcfbfd1c5ae5291400',1,'ipc_request_t::raw_data_size()'],['../structipc__response__fmt__t.html#a22cfc632076310babc32ecf3054e7363',1,'ipc_response_fmt_t::raw_data_size()']]],
+  ['rect_2eh',['rect.h',['../rect_8h.html',1,'']]],
+  ['rect_5ft',['rect_t',['../structrect__t.html',1,'']]],
+  ['result_5ft',['result_t',['../types_8h.html#aaffb9e1025a873d711d912b261347c0c',1,'types.h']]],
+  ['retf_5fclose_5fbrowser',['RETF_CLOSE_BROWSER',['../context_8h.html#a3934ef5817c6a1181e85a810addb55ea',1,'context.h']]],
+  ['retf_5fkeep_5floaded',['RETF_KEEP_LOADED',['../context_8h.html#aa3c4e260a0655bbc06fb144905846029',1,'context.h']]],
+  ['retf_5frun_5fmeminfo',['RETF_RUN_MEMINFO',['../context_8h.html#a88da29bcc793227ca4ef7e591117b84c',1,'context.h']]],
+  ['return_5fflags',['return_flags',['../structlibtransistor__context__t.html#a7b2de60027379d2b22960c9f0ac27c64',1,'libtransistor_context_t']]],
+  ['revent_5fh',['revent_h',['../types_8h.html#a1842565a075ddba8f1a0760b346a1ec0',1,'types.h']]],
+  ['rgb_5f888',['RGB_888',['../graphic__buffer__queue_8h.html#a198cda1221b69303955212a59f22677aa7aa736c7f8421f294a1c619733dfbde9',1,'graphic_buffer_queue.h']]],
+  ['rgba_5f8888',['RGBA_8888',['../graphic__buffer__queue_8h.html#a198cda1221b69303955212a59f22677aa8f4f4a3ac66eca0f55785ee1d790fa99',1,'graphic_buffer_queue.h']]],
+  ['rgbx_5f8888',['RGBX_8888',['../graphic__buffer__queue_8h.html#a198cda1221b69303955212a59f22677aa698c62a58ef9eb0b4f371295336981b4',1,'graphic_buffer_queue.h']]],
+  ['ro_2eh',['ro.h',['../ro_8h.html',1,'']]],
+  ['ro_5ffinalize',['ro_finalize',['../ro_8h.html#abca31ac5f298c05091b6a485e30a9388',1,'ro.h']]],
+  ['ro_5finit',['ro_init',['../ro_8h.html#a0258a34c2fb8331b41f9a4df2904c4ff',1,'ro.h']]],
+  ['ro_5fload_5fnro',['ro_load_nro',['../ro_8h.html#a0f64893f2f394143caa045e81c3cc194',1,'ro.h']]],
+  ['ro_5fload_5fnrr',['ro_load_nrr',['../ro_8h.html#a8e2a06ef9b3282a785b69f25a82cc8cd',1,'ro.h']]],
+  ['ro_5fobject',['ro_object',['../structlibtransistor__context__t.html#a1d6a3a33f5dd2ec2e6665c1301cdccc6',1,'libtransistor_context_t']]],
+  ['ro_5funload_5fnro',['ro_unload_nro',['../ro_8h.html#ab8da892d5d8cbf09982f5f238a2b8667',1,'ro.h']]],
+  ['ro_5funload_5fnrr',['ro_unload_nrr',['../ro_8h.html#a7fafa702c7aaa01bde486a4bcfe7639d',1,'ro.h']]]
+];
